@@ -38,7 +38,7 @@ class App extends Component {
           <div className="box">
             <div className="row">
             <div className="column1">
-            <h2> User Card Grid Layout Sample ▶</h2>
+            <h2> Frontend Tech ▶</h2>
             </div>
             <div className="column2">
             <button onClick={this.updateState}>Get Users</button>
